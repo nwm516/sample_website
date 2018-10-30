@@ -1,3 +1,3 @@
 <p>
-What is up?
+What is <strong>up</strong>?
 </p>
